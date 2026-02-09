@@ -18,6 +18,7 @@ Repositories may include:
 - Technical documentation and example configurations
 
 Each repository contains its own governance, contribution guidelines, security information and wiki.
+Over all guidance will be deployed on level of our organisation account.
 
 ## Contact
 For support or questions use our [Customer contact form](https://gs1-ch.atlassian.net/servicedesk/customer/portal/11/group/14/create/10324).
