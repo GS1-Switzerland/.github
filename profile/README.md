@@ -1,8 +1,7 @@
 # GS1 Switzerland on GitHub
 
 GS1 Switzerland is part of the global GS1 network and supports companies in enabling interoperable, efficient and transparent value chains across industries. 
-Our GitHub organization hosts technical artefacts, documentation and open-source components used or published by GS1 Switzerland.  
-Learn more at: https://www.gs1.ch
+Our GitHub organization hosts technical artefacts, documentation and open-source components used or published by GS1 Switzerland. Learn more at [www.gs1.ch](https://www.gs1.ch)
 
 ---
 
@@ -31,7 +30,7 @@ Each repository contains its own governance, contribution rules and security inf
 
 ## Featured Repositories
 
-- **WebOntology** – Repository for GS1 Web Ontologies published for the community  
+- **[WebOntology](https://github.com/GS1-Switzerland/WebOntology)** – Repository for GS1 Web Ontologies published for the community  
 - Additional public repositories will be listed here once available
 
 ---
