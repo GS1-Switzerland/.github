@@ -1,4 +1,15 @@
-# GS1 Switzerland on GitHub
+<p align="center">
+<a href="https://www.gs1.ch/">
+<img src="https://www.gs1.ch/sites/default/files/styles/pdri__500/public/2022-03/logo-gs1-switzerland-edit20220301151858.jpg" width="400px">
+</a>
+</p>
+
+<p align="center">
+<strong>The Global Language of Business</strong>
+<br />
+
+</p>
+
 
 GS1 Switzerland is part of the global GS1 network and supports companies in enabling interoperable, efficient and transparent value chains across industries. 
 Our GitHub organization hosts technical artefacts, documentation and open-source components used or published by GS1 Switzerland. Learn more at [www.gs1.ch](https://www.gs1.ch)
